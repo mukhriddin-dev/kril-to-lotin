@@ -1,0 +1,102 @@
+body{color: #AD9E51;background: #1E1E1E;font-family:Verdana;scrollbar-base-color:#33CC00;scrollbar-track-color:#F3FFCE;scrollbar-arrow-color:#FFFFFF;}
+p{margin:0.6em 0 0.6em 0;}
+.bf {cursor:pointer; font-size:9pt; color:#666666; }
+	.cadr {width:94%;color: #DCDCDC;font-family:'Times New Roman';font-size:12pt;padding:5px;scrollbar-base-color:transparent;scrollbar-track-color:transparent;}
+#para{font-weight:bold;margin:0.6em 2% 0.6em 16%;}
+#par{text-indent:40px;text-align:justify;margin:0.2em 20% 0 25%;}
+#ptabl{text-indent:40px;text-align:justify;}
+#pa{margin:0.6em 2% 0.6em 15%;}
+#pb{margin:0.6em 2% 0.6em 25%;}
+#pj{text-indent:40px;text-align:justify;}
+#pas{text-indent:40px;margin:0.2em 20% 0 25%;}
+#imf{float:left;width:12%;text-align:center;}
+#imc{float:left;width:25%;text-align:center;}
+#iml{float:left;text-align:center;font-size:80%;clear:both;}
+#esp{clear:both;}
+#espa{clear:both;height:100px;}
+#espb{clear:both;height:4em;}
+#espc{clear:both;height:18px;}
+#left{float:left;}
+#lefti{float:left;margin:10px 2% 8px 14%;text-align:center;font-size:80%;clear:both;}
+#top{float:left;padding-right:4px;}
+#top p{text-indent:30px;color:#0000CC;font-family:Times New Roman;margin:0 0;}
+#tob{float:right;}
+a{color:#330066;text-decoration:underline;}
+a:hover{color:#DD0000;text-decoration:none;}
+a.lien{color:#0000E6;text-decoration:none;}
+a.lien:hover{color:#DD0000;text-decoration:underline;}
+a.ltr{color:#0000E6;text-decoration:none;}
+a.ltr:hover{color:#DD0000;text-decoration:none;background-color:#FFFF7D;}
+a.lia{text-decoration:none;border-bottom:1px dotted blue;}
+a.lia:hover{color:#DD0000;text-decoration:none;border-bottom:0px;}
+a.in{color:#330066;text-decoration:none;}
+a.in:hover{color:#DD0000;text-decoration:underline;}
+a.ext{background:url(images/ext.gif) center right no-repeat;padding-right:13px;}
+a.ext:hover{background:url(images/ext.png) center right no-repeat;padding-right:13px;}
+a.red{background:url(images/f_i.gif) no-repeat center left;padding-left:10px;font-size:70%;}
+a.red:hover{background:url(images/f_i.gif) no-repeat center left;padding-left:10px;font-size:70%;}
+.tl{color:#009900;font-size:22px;font-family:Arial;}
+#st{color:#9D4098;font-weight:bolder;margin:6em 0 0.6em 20px;}
+#sta{color:#9D4098;font-weight:bolder;margin:0.6em 0 0.6em 20px;}
+#st a{color:#9D4098;text-decoration:none;}
+#st a:hover{color:#DD0000;text-decoration:underline;}
+#sta a{color:#9D4098;text-decoration:none;}
+#sta a:hover{color:#DD0000;text-decoration:underline;}
+.st{color:#9D4098;font-weight:bold;padding-left:20px;}
+a.st{color:#9D4098;text-decoration:none;}
+a.st:hover{color:#DD0000;text-decoration:underline;}
+.su{color:#D9A4D7;font-weight:bold;}
+a.su{color:#D9A4D7;text-decoration:none;}
+a.su:hover{color:#DD0000;text-decoration:underline;}
+.sv{color:#D9A4D7;font-size:120%;font-weight:normal;}
+.da{color:#0000CC;font-family:Times New Roman;}
+.dat{color:#0000CC;font-family:Times New Roman;padding-left:40px;}
+.cr{color:#CC0033;}
+.pho{font-family:Lucida Sans Unicode;}
+.np{color:#999999;font-size:80%;}
+a.npa{color:#999999;text-decoration:none;border-bottom:1px dotted #999999;}
+a.npa:hover{color:#DD0000;text-decoration:none;border-bottom:0px;}
+.pt{font-size:75%;}
+.qr{text-indent:40px;text-align:justify;}
+.bf{cursor:pointer;font-size:12px;color:#666666;background: rgba(171, 171, 171, 0);border: 0;padding: 7px 30px;color: #B9B9B9;border: 2px solid black;}
+.sub{background:url(images/puce_fb.gif) center right no-repeat;padding-right:20px;cursor:pointer;width:24px;height:16px;border-width:0 0 0 0;}
+.sup{background:url(images/form.gif) center right no-repeat;cursor:pointer;border-width:0 0 0 0;}
+.eff{background:url(images/effacer.png) center right no-repeat;padding-right:20px;cursor:pointer;width:24px;height:16px;border-width:0 0 0 0;}
+.bo{color:#0000D7;background-color:#DFDFFF;cursor:pointer;font-size:12px;font-family:Arial;border-color:#AEAEFF;border-width:1px;}
+.bo:hover{color:#DD0000;background-color:#EAEAFF;font-size:12px;font-family:Arial;border-color:#AEAEFF;border-width:1px;}
+textarea{scrollbar-base-color:transparent;scrollbar-track-color:transparent;font-family:Arial;color:#5B5B5B;background: #333333;border: 1px solid black;}
+input{font-family:Arial;color:#5B5B5B;}
+select{color:#330066;}
+.lb{color:#0000DD;font-family:Arial;font-size:90%;background-color:#E8E8FF;cursor:pointer;margin-right:4px;padding-left:6px;padding-right:6px;border-bottom:1px solid #330066;border-right:1px solid #330066;}
+a.lb{color:#0000DD;font-family:Arial;font-size:90%;background-color:#E8E8FF;cursor:pointer;text-decoration:none;margin-right:4px;padding-left:6px;padding-right:6px;border-bottom:1px solid #330066;border-right:1px solid #330066;}
+a.lb:hover{color:#DD0000;background-color:#F4F400;cursor:pointer;text-decoration:none;}
+a.img:hover{background-color:#F4F400;}
+#del{float:left;width:14%;text-align:center;}
+#form{float:left;width:86%;white-space:nowrap;}
+#form p{margin:0.3em 0 0.3em 0;}
+#trada{float:left;width:50%;text-align:center;padding-right:40px;}
+#tradb{float:left;white-space:nowrap;}
+#dic{float:left;padding-right:35px;}
+#lge{color:#009900;font-size:22px;font-family:Arial;margin:0.5em 0 0.5em 14%;}
+#lge .vo{color:#00C100;font-size:22px;font-family:Arial;padding-left:100px;}
+#lg{color:#009900;font-size:22px;font-family:Arial;margin:30px 0 5px 14%;}
+#lg .vo{color:#00C100;font-size:22px;font-family:Arial;padding-left:100px;}
+#bab{margin:0.6em 0 0.6em 14%;text-indent:-16px;}
+#espi{clear:both;height:1px;}
+#ca{float:left;padding-left:3px;}
+#cb{float:left;padding-left:3px;}
+#cc{margin:5px 50px 0 400px;color:#33CC00;font-size:26px;font-family:Comic Sans MS;text-align:center;}
+#cc .sti{font-size:18px;}
+#cd{position:absolute;right:10px;top:10px;text-align:right;}
+#ce{position:absolute;right:10px;top:100px;text-align:right;white-space:nowrap;}
+#cf{position:absolute;left:25px;top:124px;font-size:75%;}
+.ti{color:#33CC00;font-size:26px;font-family:Comic Sans MS;text-align:center;}
+#libr{margin:6em 0 0.6em 20px;}
+a.frp{background:url(images/f_i.gif) left no-repeat;padding-left:10px;font-size:75%;}
+.bulb{color:#7C00F9;}
+.bulba{color:#7C00F9; padding-left:25px;}
+.bulr{color:#9F0028;}
+.bulra{color:#9F0028; padding-left:25px;}
+.bulo{color:#CA5100;}
+.bulf{color:#CC0033;}
+.bulff{color:#C10031;}
